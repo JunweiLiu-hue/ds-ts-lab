@@ -1,4 +1,5 @@
 // (Optional) Change the names below to your friends.
+import {Friend, Colleague, ColleagueHistory } from './myTypes'
 
 interface Friend {
     name: string;
